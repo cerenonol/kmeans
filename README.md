@@ -1,2 +1,3 @@
 # kmeans
 tyruru
+trteyreu
